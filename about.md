@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-湖南大学
+<h2>湖南大学</h2>
 
 海南华侨中学
 
