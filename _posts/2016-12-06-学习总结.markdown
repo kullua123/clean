@@ -1,3 +1,18 @@
+---
+title: "2016.12.6 学习总结"
+layout: post
+date: 2016-12-6 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- 总结
+blog: true
+star: true
+author: kullua
+description: 阶段性总结
+---
+
 ## 2016.12.6 学习总结
 
 ​     开学到现在，深切的感受到拖延症真的得治。很多事情被推到现在，弄得现在忙碌不堪，我知道每个阶段有每个阶段的理由，人都是会累的，但是休息过后要及时出发，不然落下了真的很难跟上大部队。
