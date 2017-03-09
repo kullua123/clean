@@ -8,7 +8,6 @@ tag:
 - markdown
 - 总结
 blog: true
-star: true
 author: kullua
 description: 阶段性总结
 ---
